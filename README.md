@@ -2,4 +2,4 @@
 Ocean shader for unity HDRP (shadergraph)
 
 # Free to use
-<img src="./myimage.jpg">
+<img src="./flight sim thumb 12.png">
